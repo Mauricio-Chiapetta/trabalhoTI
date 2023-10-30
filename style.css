@@ -183,3 +183,17 @@ i {
 #elem2 p {
   line-height: 16px;
 }
+
+video{
+  margin-top: 20px;
+  height: 500px;
+  position: absolute;
+  left: 47%;
+  transform: translate(-50%, 0);
+}
+
+.video{
+  background-color:#fffdeb ;
+  width: 100%;
+  height: 90%;
+}
